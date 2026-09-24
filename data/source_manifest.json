@@ -1,0 +1,11 @@
+{
+  "filename": "nfts.sqlite",
+  "bytes": 7433949184,
+  "sha256": "3c846f06f282da4529e8a51b3e9f886b4b68f90477494e084e8bbae9118faaa9",
+  "dataset_id": 1643391,
+  "dataset_version_id": 2698517,
+  "sample_rows": 100000,
+  "sample_min_unix_timestamp": 1627776017,
+  "sample_max_unix_timestamp": 1628189824,
+  "sample_distinct_blocks": 25373
+}
